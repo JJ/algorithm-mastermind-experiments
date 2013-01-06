@@ -1,4 +1,4 @@
-ID: log-ee2-5-8-p800-cs200-r075-x8-p1-m1-t7
+ID: e-5-8-p800-r075-x8-p1-m1-t7
 Method: Evo
 Method_options:
     alphabet:
@@ -13,7 +13,6 @@ Method_options:
     length: 5
     pop_size: 800
     consistent_set_card: 
-      - 8
       - 32
       - 256
     replacement_rate: 0.75
