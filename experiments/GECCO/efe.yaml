@@ -1,0 +1,22 @@
+ID: efe
+Method: Evo_Fast_Entropy
+Method_options:
+    alphabet:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - F
+      - G
+      - H
+    length: 5
+    pop_size: 800
+    consistent_set_card:  8
+    replacement_rate: 0.75
+    xover_rate: 8
+    swap_rate: 1
+    tournament_size: 7
+
+
+
