@@ -1,0 +1,27 @@
+ID: efe-6-9-p1024-r075-x16-s1-sh1-m2-t7
+Method: Evo_Fast_Entropy
+Method_options:
+    alphabet:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - F
+      - G
+      - H
+      - I
+    length: 6
+    pop_size: 1024
+    consistent_set_card: 
+      - 256
+      - 512
+    replacement_rate: 0.75
+    xover_rate: 16
+    swap_rate: 1
+    shift_rate: 1
+    mutation_rate: 2
+    tournament_size: 7
+
+
+
