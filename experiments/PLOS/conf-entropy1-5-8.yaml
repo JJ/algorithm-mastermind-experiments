@@ -1,0 +1,17 @@
+ID: log-entropy1-5-8
+Method: Partition_Entropy_1st
+Method_options:
+    alphabet:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - F
+      - G
+      - H
+    length: 5
+
+
+
+
