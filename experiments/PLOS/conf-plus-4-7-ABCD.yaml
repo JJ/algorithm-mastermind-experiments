@@ -1,0 +1,19 @@
+ID: log-plus-4-7-ABCD
+Method: Partition_Plus
+repeats: 10
+Method_options:
+    alphabet:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - F
+      - G
+    length: 4
+    first_combination: ABCD
+
+
+
+
+

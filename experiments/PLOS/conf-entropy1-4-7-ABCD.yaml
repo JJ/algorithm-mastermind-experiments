@@ -1,0 +1,17 @@
+ID: log-entropy1-4-7-ABCD
+Method: Partition_Entropy_1st
+Method_options:
+    alphabet:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - F
+      - G
+    length: 4
+    first_combination: ABCD
+
+
+
+
