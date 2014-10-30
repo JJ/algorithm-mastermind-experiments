@@ -1,19 +1,7 @@
-Algorithm-MasterMind version 0.4.6
+Algorithm-MasterMind data
 =====================
 
-This is a testbed for different algorithms to play
-MasterMind. Theoretically, it should be easy to add your own.
-
-INSTALLATION
-------------------
-
-To install this module, run the following commands:
-
-	perl Makefile.PL
-	make
-	make test
-	make install
-
+Experiments and data for the Mastermind algorithm, whose module is at [GitHub too](http://github.com/JJ/algorithm-mastermind).
 
 DEPENDENCIES
 --------------------
